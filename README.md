@@ -1,4 +1,4 @@
-![MasterHead](https://giphy.com/gifs/one-numbers-binary-code-QpVUMRUJGokfqXyfa1)
+![MasterHead](https://giphy.com/gifs/one-numbers-binary-code-QpVUMRUJGokfqXyfa1.gif)
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A Developer Evolving Through Code</h3>
 
